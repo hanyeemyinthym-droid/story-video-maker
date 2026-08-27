@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    paAge_title="Story Video Maker",
+    page_title="Story Video Maker",
     page_icon="🎬",
     layout="centered"
 )
