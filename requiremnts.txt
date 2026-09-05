@@ -1,4 +1,4 @@
 streamlit
 fal-client
 requests
-httpx
+
